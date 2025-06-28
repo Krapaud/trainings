@@ -2,6 +2,7 @@
 	"files.associations": {
 		"1-last_digit_c": "c",
 		"100-print_comb3.C": "cpp",
-		"3-main.C": "cpp"
+		"3-main.C": "cpp",
+		"4-print_most_numbers.C": "cpp"
 	}
 }
